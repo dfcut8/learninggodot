@@ -5,6 +5,16 @@
 [node name="Root" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(612, 260)
-scale = Vector2(2.4809, 2.30201)
+position = Vector2(608, 138)
+scale = Vector2(1.34983, 1.24738)
+texture = ExtResource("1_pq8q7")
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+position = Vector2(955, 342)
+scale = Vector2(2.4809, 0.783818)
+texture = ExtResource("1_pq8q7")
+
+[node name="Sprite2D3" type="Sprite2D" parent="."]
+position = Vector2(244, 342)
+scale = Vector2(2.4809, 0.783818)
 texture = ExtResource("1_pq8q7")
